@@ -1,5 +1,5 @@
 package chocolate
 
-func aimesTu() string {
+func AimesTu() string {
 	return "Too much"
 }
